@@ -27,5 +27,3 @@ I'm passionate about creating algorithms, designing AI models, and customizing s
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dedeetech"><img src="https://github-readme-stats.vercel.app/api?username=dedeetech&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0891b2&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="dedeetech's GitHub stats" /></a>
-
-<a href="https://github.com/dedeetech" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedeetech&langs_count=10&title_color=6366f1&text_color=0891b2&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
