@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm passionate about creating algorithms, designing AI models, and customizing solutions for various applications by gaining the power to shape the future of technology, solve complex problems, and foster innovation!
+I'm passionate about customizing solutions for various applications by gaining the power to shape the future of technology, solve complex problems, and foster innovation!
 
 * 🌍  I'm based in Missouri
-* 🖥️  See my portfolio at [My website](http://www.dedee.tech)
 * ✉️  You can contact me at [dedeetech.contact@gmail.com](mailto:dedeetech.contact@gmail.com)
 
 ### Skills
